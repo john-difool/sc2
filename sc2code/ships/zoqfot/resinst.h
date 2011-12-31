@@ -1,0 +1,5 @@
+#include "ships/zoqfot/igfxres.h"
+#include "ships/zoqfot/istrtab.h"
+#include "ships/zoqfot/isndres.h"
+#include "ships/zoqfot/imusicre.h"
+#include "ships/zoqfot/icode.h"

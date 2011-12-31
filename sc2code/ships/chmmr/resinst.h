@@ -1,0 +1,5 @@
+#include "ships/chmmr/igfxres.h"
+#include "ships/chmmr/istrtab.h"
+#include "ships/chmmr/isndres.h"
+#include "ships/chmmr/imusicre.h"
+#include "ships/chmmr/icode.h"

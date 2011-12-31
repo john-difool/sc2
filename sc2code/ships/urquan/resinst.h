@@ -1,0 +1,5 @@
+#include "ships/urquan/igfxres.h"
+#include "ships/urquan/istrtab.h"
+#include "ships/urquan/isndres.h"
+#include "ships/urquan/imusicre.h"
+#include "ships/urquan/icode.h"

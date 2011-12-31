@@ -1,0 +1,5 @@
+#include "ships/androsyn/igfxres.h"
+#include "ships/androsyn/istrtab.h"
+#include "ships/androsyn/isndres.h"
+#include "ships/androsyn/imusicre.h"
+#include "ships/androsyn/icode.h"

@@ -1,0 +1,5 @@
+#include "ships/vux/igfxres.h"
+#include "ships/vux/istrtab.h"
+#include "ships/vux/isndres.h"
+#include "ships/vux/imusicre.h"
+#include "ships/vux/icode.h"

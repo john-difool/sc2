@@ -1,0 +1,5 @@
+#include "ships/shofixti/igfxres.h"
+#include "ships/shofixti/istrtab.h"
+#include "ships/shofixti/isndres.h"
+#include "ships/shofixti/imusicre.h"
+#include "ships/shofixti/icode.h"

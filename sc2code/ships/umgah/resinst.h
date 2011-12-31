@@ -1,0 +1,5 @@
+#include "ships/umgah/igfxres.h"
+#include "ships/umgah/istrtab.h"
+#include "ships/umgah/isndres.h"
+#include "ships/umgah/imusicre.h"
+#include "ships/umgah/icode.h"

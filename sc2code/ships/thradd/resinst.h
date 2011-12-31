@@ -1,0 +1,5 @@
+#include "ships/thradd/igfxres.h"
+#include "ships/thradd/istrtab.h"
+#include "ships/thradd/isndres.h"
+#include "ships/thradd/imusicre.h"
+#include "ships/thradd/icode.h"

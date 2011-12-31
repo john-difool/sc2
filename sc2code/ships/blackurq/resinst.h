@@ -1,0 +1,5 @@
+#include "ships/blackurq/igfxres.h"
+#include "ships/blackurq/istrtab.h"
+#include "ships/blackurq/isndres.h"
+#include "ships/blackurq/imusicre.h"
+#include "ships/blackurq/icode.h"

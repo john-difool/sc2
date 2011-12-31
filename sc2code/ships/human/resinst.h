@@ -1,0 +1,5 @@
+#include "ships/human/igfxres.h"
+#include "ships/human/istrtab.h"
+#include "ships/human/isndres.h"
+#include "ships/human/imusicre.h"
+#include "ships/human/icode.h"

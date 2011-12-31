@@ -1,0 +1,5 @@
+#include "ships/pkunk/igfxres.h"
+#include "ships/pkunk/istrtab.h"
+#include "ships/pkunk/isndres.h"
+#include "ships/pkunk/imusicre.h"
+#include "ships/pkunk/icode.h"

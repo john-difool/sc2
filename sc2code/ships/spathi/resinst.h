@@ -1,0 +1,5 @@
+#include "ships/spathi/igfxres.h"
+#include "ships/spathi/istrtab.h"
+#include "ships/spathi/isndres.h"
+#include "ships/spathi/imusicre.h"
+#include "ships/spathi/icode.h"

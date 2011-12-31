@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DrawRestartMenuGraphic:restart.c">
+      </ContextState>
+      <ContextState
+         contextName = "SDL_UpdateRect:SDL_compat.c">
+      </ContextState>
+      <ContextState
+         contextName = "GetFrameRect:drawable.c">
+      </ContextState>
+      <ContextState
+         contextName = "SetFlashRect:sis.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "FRAME">
+            </PersistentString>
+            <PersistentString
+               value = "(PVOID)f">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "activate:vcontrol.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
