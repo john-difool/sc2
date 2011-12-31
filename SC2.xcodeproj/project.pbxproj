@@ -391,7 +391,7 @@
 		B310304814AEF3B900BE6240 /* 3do_blt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 3do_blt.c; sourceTree = "<group>"; };
 		B310304914AEF3B900BE6240 /* 3do_funcs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 3do_funcs.c; sourceTree = "<group>"; };
 		B310304A14AEF3B900BE6240 /* 3do_getbody.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 3do_getbody.c; sourceTree = "<group>"; };
-		B32C101514A93423008753A2 /* Hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B32C101514A93423008753A2 /* SC2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SC2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B32C101914A93423008753A2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B32C101B14A93423008753A2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B32C101D14A93423008753A2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -1443,7 +1443,7 @@
 		B32C101614A93423008753A2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B32C101514A93423008753A2 /* Hello.app */,
+				B32C101514A93423008753A2 /* SC2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1475,7 +1475,7 @@
 				B3EBA74E14A962A600668AD3 /* sc2code */,
 			);
 			name = Sources;
-			path = Hello;
+			path = SC2;
 			sourceTree = "<group>";
 		};
 		B32C104414A937C5008753A2 /* Resources */ = {
@@ -3295,9 +3295,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B32C101414A93423008753A2 /* Hello */ = {
+		B32C101414A93423008753A2 /* SC2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B32C102D14A93423008753A2 /* Build configuration list for PBXNativeTarget "Hello" */;
+			buildConfigurationList = B32C102D14A93423008753A2 /* Build configuration list for PBXNativeTarget "SC2" */;
 			buildPhases = (
 				B32C101114A93423008753A2 /* Sources */,
 				B32C101214A93423008753A2 /* Frameworks */,
@@ -3307,9 +3307,9 @@
 			);
 			dependencies = (
 			);
-			name = Hello;
-			productName = Hello;
-			productReference = B32C101514A93423008753A2 /* Hello.app */;
+			name = SC2;
+			productName = SC2;
+			productReference = B32C101514A93423008753A2 /* SC2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -3321,7 +3321,7 @@
 				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = Artivisual;
 			};
-			buildConfigurationList = B32C100F14A93423008753A2 /* Build configuration list for PBXProject "Hello" */;
+			buildConfigurationList = B32C100F14A93423008753A2 /* Build configuration list for PBXProject "SC2" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -3347,7 +3347,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				B32C101414A93423008753A2 /* Hello */,
+				B32C101414A93423008753A2 /* SC2 */,
 			);
 		};
 /* End PBXProject section */
@@ -3823,7 +3823,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B32C100F14A93423008753A2 /* Build configuration list for PBXProject "Hello" */ = {
+		B32C100F14A93423008753A2 /* Build configuration list for PBXProject "SC2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B32C102B14A93423008753A2 /* Debug */,
@@ -3832,7 +3832,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B32C102D14A93423008753A2 /* Build configuration list for PBXNativeTarget "Hello" */ = {
+		B32C102D14A93423008753A2 /* Build configuration list for PBXNativeTarget "SC2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B32C102E14A93423008753A2 /* Debug */,
